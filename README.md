@@ -8,3 +8,4 @@ The whole dataset is divided into 3 parts: Beauty, Fashion, Mobile due to names 
 * TfidfVectorizer
 
 In general, the overall accuracy is 74.4%, which only 6% less than top 1 model
+For the training set and test set, you can download it from [this link] (https://www.kaggle.com/c/ndsc-beginner/data)
